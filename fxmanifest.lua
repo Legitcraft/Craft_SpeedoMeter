@@ -6,6 +6,6 @@ description 'Simple Speedometer for FiveM by Craft Resources'
 version 'Drawtext'
 
 client_scripts {
-    'client.lua'
+    'SpeedCraft.lua'
 }
 
